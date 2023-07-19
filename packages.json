@@ -1,0 +1,27 @@
+{
+  "name": "WebGraphicLibrary-sprite",
+  "version": "2.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "prepublish": "npm run build",
+    "build": "babel ./src/index.js --out-file dist/index.js --presets=es2015"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmerhh/WebGraphicLibrary-sprite.git"
+  },
+  "keywords": [
+    "WebGl"
+  ],
+  "author": "ahmerhh <ahmerhh@proton.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahmerhh/WebGraphicLibrary-sprite/issues"
+  },
+  "homepage": "https://github.com/ahmerhh/WebGraphicLibrary-sprite#readme",
+  "devDependencies": {
+    "babel-cli": "^6.4.0",
+    "babel-preset-es2015": "^6.3.13"
+  }
+}
