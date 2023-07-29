@@ -14,7 +14,8 @@
   "keywords": [
     "WebGl"
   ],
-  "author": "ahmerhh <ahmerhh@proton.com>",
+  "author": "ahmerhh <ahmerhh@proton.com> ",
+  "author-alt": "ahmer habib <ahmerhabibb@gmail.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ahmerhh/WebGraphicLibrary-sprite/issues"
