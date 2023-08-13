@@ -1,6 +1,6 @@
 {
   "name": "@ahmerhh/webgraphiclibrary-sprite",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "A simple template for creating sprites in your JavaScript projects.",
   "main": "dist/index.js",
   "scripts": {
